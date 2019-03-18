@@ -1,8 +1,10 @@
-package agorithm;
+import java.util.Arrays;
 
 public class BubbleSort {
     public static void main(String[] args) {
         int[] arr = new int[]{5,7,2,9,4,1,0,5,7};
+        bubbleSort(arr);
+        System.out.println(Arrays.toString(arr));
 
     }
     public static void bubbleSort(int[] arr){
