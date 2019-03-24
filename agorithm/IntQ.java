@@ -1,5 +1,3 @@
-package agorithm.orderAgorithms;
-
 public class IntQ {
     private int [] q;
     private int size;

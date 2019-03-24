@@ -1,5 +1,3 @@
-package agorithm.orderAgorithms;
-
 import javax.naming.event.ObjectChangeListener;
 import java.util.Arrays;
 

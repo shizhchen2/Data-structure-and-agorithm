@@ -1,5 +1,3 @@
-package agorithm.linkedAgorithms;
-
 public class Test {
     public static void main(String[] args) {
         //System.out.println(fabonacci(7));

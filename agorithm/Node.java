@@ -1,5 +1,3 @@
-package agorithm.linkedAgorithms;
-
 public class Node {
     int data;
     Node next;

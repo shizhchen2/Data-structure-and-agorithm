@@ -1,5 +1,3 @@
-package agorithm.linkedAgorithms;
-
 public class DoubleNode {
     DoubleNode prev = this;
     DoubleNode next = this;

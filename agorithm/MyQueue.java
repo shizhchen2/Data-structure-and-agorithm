@@ -1,6 +1,4 @@
-package agorithm.orderAgorithms;
-
-public class MyQueue {
+public class  MyQueue {
     int[] elements;
     public MyQueue(){
         elements = new int[0];

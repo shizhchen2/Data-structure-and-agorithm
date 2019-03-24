@@ -1,5 +1,3 @@
-package agorithm.orderAgorithms;
-
 import java.util.Arrays;
 
 public class ArrayTest2 {

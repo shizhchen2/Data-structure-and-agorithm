@@ -1,5 +1,3 @@
-package agorithm.linkedAgorithms;
-
 public class LoopNode {
     int data;
     LoopNode next=this;

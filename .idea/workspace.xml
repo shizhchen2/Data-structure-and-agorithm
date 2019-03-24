@@ -2,11 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c5dfd2d6-cb56-47eb-b411-202e19ba3210" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/agorithm/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/agorithm/RadixSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/agorithm/SelectSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agorithm/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agorithm/RadixQueueSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agorithm/TestBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agorithm/TreeNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/agorithm/linkedAgorithms/DoubleNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/agorithm/DoubleNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/agorithm/linkedAgorithms/LoopNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/agorithm/LoopNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/agorithm/linkedAgorithms/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/agorithm/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/agorithm/linkedAgorithms/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/agorithm/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/agorithm/orderAgorithms/ArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/agorithm/ArrayTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/agorithm/orderAgorithms/ArrayTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/agorithm/ArrayTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/agorithm/orderAgorithms/IntQ.java" beforeDir="false" afterPath="$PROJECT_DIR$/agorithm/IntQ.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/agorithm/orderAgorithms/IntStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/agorithm/IntStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/agorithm/orderAgorithms/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/agorithm/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/agorithm/orderAgorithms/MyArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/agorithm/MyArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/agorithm/orderAgorithms/MyQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/agorithm/MyQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/agorithm/orderAgorithms/MyStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/agorithm/MyStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/agorithm/orderAgorithms/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/agorithm/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/agorithm/orderAgorithms/PersonQ.java" beforeDir="false" afterPath="$PROJECT_DIR$/agorithm/PersonQ.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/agorithm/orderAgorithms/PersonStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/agorithm/PersonStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/agorithm/orderAgorithms/TestBinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/agorithm/TestBinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/agorithm/orderAgorithms/TestSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/agorithm/TestSearch.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,67 +38,46 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/agorithm/QuickSort.java">
+        <entry file="file://$PROJECT_DIR$/agorithm/BinaryTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/agorithm/InsertSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/agorithm/ShellSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/agorithm/SelectSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="6" column="49" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/agorithm/MergeSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-135">
-              <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/agorithm/RadixSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="44" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
+            <state relative-caret-position="330">
+              <caret line="22" column="28" lean-forward="true" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#85#86#0" expanded="true" />
+                <element signature="e#117#118#0" expanded="true" />
+                <element signature="e#150#151#0" expanded="true" />
+                <element signature="e#177#178#0" expanded="true" />
+                <element signature="e#432#433#0" expanded="true" />
+                <element signature="e#474#475#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/agorithm/BubbleSort.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/agorithm/TestBinaryTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+            <state relative-caret-position="345">
+              <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/agorithm/TreeNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-29">
+              <caret line="22" column="33" lean-forward="true" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+              <folding>
+                <element signature="e#123#124#0" expanded="true" />
+                <element signature="e#157#158#0" expanded="true" />
+                <element signature="e#189#190#0" expanded="true" />
+                <element signature="e#220#221#0" expanded="true" />
+                <element signature="e#273#274#0" expanded="true" />
+                <element signature="e#313#314#0" expanded="true" />
+                <element signature="e#365#366#0" expanded="true" />
+                <element signature="e#407#408#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -108,6 +104,11 @@
         <option value="$PROJECT_DIR$/agorithm/SelectSort.java" />
         <option value="$PROJECT_DIR$/agorithm/MergeSort.java" />
         <option value="$PROJECT_DIR$/agorithm/RadixSort.java" />
+        <option value="$PROJECT_DIR$/agorithm/orderAgorithms/MyQueue.java" />
+        <option value="$PROJECT_DIR$/agorithm/RadixQueueSort.java" />
+        <option value="$PROJECT_DIR$/agorithm/TreeNode.java" />
+        <option value="$PROJECT_DIR$/agorithm/BinaryTree.java" />
+        <option value="$PROJECT_DIR$/agorithm/TestBinaryTree.java" />
       </list>
     </option>
   </component>
@@ -137,12 +138,6 @@
               <item name="Data-structure-and-agorithm" type="462c0819:PsiDirectoryNode" />
               <item name="agorithm" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Data-structure-and-agorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Data-structure-and-agorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="agorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="orderAgorithms" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -155,7 +150,7 @@
     <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
     <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
     <property name="GenerateAntBuildDialog.outputFileNameProperty" value="data-structure-and-agorithm" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553010339788" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553333155471" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -163,6 +158,9 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/agorithm" />
     </key>
@@ -184,14 +182,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RadixSort">
-    <configuration name="InsertSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InsertSort" />
-      <module name="Data-structure-and-agorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TestBinaryTree">
     <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MergeSort" />
       <module name="Data-structure-and-agorithm" />
@@ -201,6 +192,13 @@
     </configuration>
     <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="QuickSort" />
+      <module name="Data-structure-and-agorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RadixQueueSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RadixQueueSort" />
       <module name="Data-structure-and-agorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -220,8 +218,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShellSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ShellSort" />
+    <configuration name="TestBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestBinaryTree" />
       <module name="Data-structure-and-agorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -229,19 +227,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.QuickSort" />
-      <item itemvalue="Application.InsertSort" />
-      <item itemvalue="Application.ShellSort" />
       <item itemvalue="Application.SelectSort" />
       <item itemvalue="Application.MergeSort" />
       <item itemvalue="Application.RadixSort" />
+      <item itemvalue="Application.RadixQueueSort" />
+      <item itemvalue="Application.TestBinaryTree" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestBinaryTree" />
+        <item itemvalue="Application.RadixQueueSort" />
         <item itemvalue="Application.RadixSort" />
         <item itemvalue="Application.MergeSort" />
         <item itemvalue="Application.SelectSort" />
-        <item itemvalue="Application.ShellSort" />
-        <item itemvalue="Application.InsertSort" />
       </list>
     </recent_temporary>
   </component>
@@ -269,9 +267,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="722" y="0" width="718" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26923078" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20266272" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -280,7 +277,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.28674698" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28674698" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -338,18 +335,162 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/agorithm/MergeSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-135">
+        <state relative-caret-position="150">
           <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/agorithm/RadixSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
+        <state relative-caret-position="138">
           <caret line="23" column="44" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/agorithm/ArrayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/agorithm/ArrayTest2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/agorithm/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/agorithm/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/agorithm/LoopNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/agorithm/DoubleNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/agorithm/PersonQ.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/agorithm/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/agorithm/MyStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/agorithm/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/agorithm/RadixQueueSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="23" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/agorithm/IntQ.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/agorithm/IntStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/agorithm/MyArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/agorithm/MyQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/agorithm/BinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="28" lean-forward="true" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+          <folding>
+            <element signature="e#85#86#0" expanded="true" />
+            <element signature="e#117#118#0" expanded="true" />
+            <element signature="e#150#151#0" expanded="true" />
+            <element signature="e#177#178#0" expanded="true" />
+            <element signature="e#432#433#0" expanded="true" />
+            <element signature="e#474#475#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/agorithm/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-29">
+          <caret line="22" column="33" lean-forward="true" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+          <folding>
+            <element signature="e#123#124#0" expanded="true" />
+            <element signature="e#157#158#0" expanded="true" />
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#220#221#0" expanded="true" />
+            <element signature="e#273#274#0" expanded="true" />
+            <element signature="e#313#314#0" expanded="true" />
+            <element signature="e#365#366#0" expanded="true" />
+            <element signature="e#407#408#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/agorithm/TestBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
         </state>
       </provider>
     </entry>

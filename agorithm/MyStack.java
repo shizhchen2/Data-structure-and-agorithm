@@ -1,5 +1,3 @@
-package agorithm.orderAgorithms;
-
 public class MyStack {
     //栈的底层我们使用数组存放数据
     int[] elements;

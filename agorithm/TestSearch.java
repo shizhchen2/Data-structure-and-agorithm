@@ -1,5 +1,3 @@
-package agorithm.orderAgorithms;
-
 public class TestSearch {
     public static void main(String[] args) {
         //target array

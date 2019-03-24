@@ -1,5 +1,3 @@
-package agorithm.orderAgorithms;
-
 public class PersonStack {
     private Person [] stack;
     private int top;
